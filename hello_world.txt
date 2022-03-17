@@ -1,0 +1,8 @@
+I'm adding this text to learn
+how to modify, stage, & 
+commit files and directories
+in Git and upload them to my
+remote repository (repo)
+in GitHub. So fun to learn new
+things that will assist me 
+in a better future !
